@@ -3,6 +3,8 @@
 A mobile app based on [@Zikani03](https://github.com/zikani03) bankimoon vue app with sqlite to store institution account numbers.
 Find it [here](https://github.com/geekquest/bankimoon)
 
+This project was moved [here](https://github.com/geekquest/bankimoon/)
+
 ## Requirements
 
 1. [Flutter](https://flutter.dev/)
